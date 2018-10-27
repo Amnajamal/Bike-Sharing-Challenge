@@ -27,7 +27,7 @@ reverseGeoCode <- function(latlng) {
 }
 
 ############## Reading Input Files ##########
-setwd('/Users/Amna/Documents/Dropbox/SampleTest/bikes_data/data/')
+setwd('C:\\...')
 station_data = read.csv('station_data.csv', stringsAsFactors = FALSE)
 
 ###### changes were made in trip_data.csv to do data manipulation. I am unable to upload it on the portal
