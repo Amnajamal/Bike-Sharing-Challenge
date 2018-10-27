@@ -1,8 +1,8 @@
 #---
 #title: "Bike sharing challenge"
 #author: "Amna Jamal"
-#date: "January 01, 2017"
-#output: pdf_document
+#date: "June 05, 2018"
+#output: csv_file
 #---
   
 #  ```{r setup, include=FALSE}
